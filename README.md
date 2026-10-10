@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project is an AI-based real-time object detection and LED alert system using ESP32-CAM and TinyML.
+This project is an AI-based real-time object detection and LED alert system using ESP32-CAM and TinyML. Just a prototype
+
 
 The system uses an Edge Impulse image-classification model to detect two classes:
 
